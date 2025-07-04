@@ -56,7 +56,7 @@ export const App = () => {
             weight="bold"
             view="medium"
           >
-            Защита жизни и здоровья
+            Защиты жизы
           </Typography.TitleResponsive>
           <Typography.Text
             view="primary-medium"
